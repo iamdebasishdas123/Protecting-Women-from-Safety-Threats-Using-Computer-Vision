@@ -28,13 +28,13 @@ git clone https://github.com/iamdebasishdas123/Protecting-Women-from-Safety-Thre
 ### Architecture
 
 #### **Deep Learning Model Architecture**
-![alt text](artifacts\Model.png)
+![alt text](artifacts/Model.png)
 
 ---
 
 ### **User Interface**
 
-![image](artifacts\UI.png)
+![image](artifacts/UI.png)
 
 ---
 

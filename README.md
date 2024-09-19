@@ -1,4 +1,4 @@
-Here’s the README file for your project **Protecting Women from Safety Threats Using Computer Vision**:
+**Protecting Women from Safety Threats Using Computer Vision**:
 
 ---
 
@@ -27,16 +27,16 @@ git clone https://github.com/iamdebasishdas123/Protecting-Women-from-Safety-Thre
 
 ### Architecture
 
-#### Deep Learning Model Architecture
-![Deep Learning Model Architecture](artifacts\Screenshot 2024-09-19 225307.png)
+#### **Deep Learning Model Architecture**
+![alt text](artifacts\Model.png)
 
 ---
 
-#### User Interface 
+### **User Interface**
 
-![image](artifacts\Screenshot 2024-09-19 225402.png)
+![image](artifacts\UI.png)
 
---
+---
 
 
 The architecture of this project consists of multiple modules for detecting persons, analyzing gender ratios, detecting emotions, and generating SOS alerts when necessary. The system leverages:
@@ -67,14 +67,9 @@ The architecture of this project consists of multiple modules for detecting pers
 - **Crime in India Dataset**: [Kaggle Dataset](https://www.kaggle.com/datasets/rajanand/crime-in-india)
 
 ---
-
-## Authors
-
-- **Debasish**
-- **Subham**
-- **Palmoni**
-- **Nidhi**
-- **Aditya**
-- **Vandana**
-
----
+# Authors:
+```bash
+Team Name : Guardian Eye
+Authors: Debasish Das,Subham , Palmoni, Nidhi, Vandana , Aditya 
+Email: iamdebasishdas123@gmail.com
+```

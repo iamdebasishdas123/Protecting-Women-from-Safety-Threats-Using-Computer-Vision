@@ -1,5 +1,5 @@
 **Protecting Women from Safety Threats Using Computer Vision**:
-
+- It is not perfectly optimized code; it is a demo model.
 ---
 
 # Protecting-Women-from-Safety-Threats-Using-Computer-Vision

@@ -16,11 +16,18 @@ This project was initiated as part of the **Smart India Hackathon (SIH)**, where
 ## How to Clone the Repository
 
 To clone the repository to your local machine, use the following command:
-
+- Step-1
 ```bash
 git clone https://github.com/iamdebasishdas123/Protecting-Women-from-Safety-Threats-Using-Computer-Vision.git
 ```
-
+- Step -2
+```bash
+[Download Model](https://drive.google.com/file/d/1hemJiM_Bgx-MXDfDjna2Or-NtK9O89oc/view?usp=sharing)
+```
+- Step-3
+```bash
+pip install -r requirements.txt
+```
 ---
 
 ## Documentation

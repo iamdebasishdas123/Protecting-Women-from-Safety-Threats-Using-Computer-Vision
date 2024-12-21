@@ -21,8 +21,9 @@ To clone the repository to your local machine, use the following command:
 git clone https://github.com/iamdebasishdas123/Protecting-Women-from-Safety-Threats-Using-Computer-Vision.git
 ```
 - Step -2
+  Download Emotion Detection Model 
 ```bash
-[Download Model](https://drive.google.com/file/d/1hemJiM_Bgx-MXDfDjna2Or-NtK9O89oc/view?usp=sharing)
+https://drive.google.com/file/d/1hemJiM_Bgx-MXDfDjna2Or-NtK9O89oc/view?usp=sharing
 ```
 - Step-3
 ```bash
